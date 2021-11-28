@@ -47,13 +47,13 @@ This project uses-
 ## Running the Models
 You can load the model using the following code -
 ```
-f = open("model_name", "rb")
-load_model = pickle.load(f)
-f.close() 
+def loadModel(fileName):
+  filePath = '/content/models/'+fileName
+  return pickle.load(open(filePath, 'rb'))
 ```
 
 
-## Contributions 👽
+## Contributions
 Contributions are welcome. Please see the contribution guidelines, make sure you understand the code and have the dependencies set up.
 
 
