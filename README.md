@@ -62,7 +62,7 @@ Feel free to make bug reports on our issues. You can reach out to either of us i
 
 *Contact us:*
 
-* Aairah: rishit19091@iiitd.ac.in
+* Aairah: aairah19003@iiitd.ac.in
 * Dhairya: dhairya19035@iiitd.ac.in
 * Harshit: harshit19044@iiitd.ac.in
 * Kirthana: kirthana19053@iiitd.ac.in
